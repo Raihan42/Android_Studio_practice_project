@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentProgram</string>
+    <string name="text"><b>what is Intent?</b>\nImage result for what is intent in android Intents are objects of the android.content.Intent type. Your code can send them to the Android system defining the components you are targeting
+</string>
+</resources>
